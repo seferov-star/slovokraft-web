@@ -1,0 +1,2638 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "title": "Группа 1 • Красная",
+      "subtitle": "абзац — берёза",
+      "column": 1,
+      "color": "RED"
+    },
+    {
+      "id": 2,
+      "title": "Группа 2 • Синяя",
+      "subtitle": "билет — ветер",
+      "column": 1,
+      "color": "BLUE"
+    },
+    {
+      "id": 3,
+      "title": "Группа 3 • Зелёная",
+      "subtitle": "виноград — город",
+      "column": 1,
+      "color": "GREEN"
+    },
+    {
+      "id": 4,
+      "title": "Группа 4 • Фиолетовая",
+      "subtitle": "девочка — железо",
+      "column": 1,
+      "color": "PURPLE"
+    },
+    {
+      "id": 5,
+      "title": "Группа 5 • Оранжевая",
+      "subtitle": "завод — капуста",
+      "column": 1,
+      "color": "ORANGE"
+    },
+    {
+      "id": 6,
+      "title": "Группа 6 • Коричневая",
+      "subtitle": "карандаш — концерт",
+      "column": 1,
+      "color": "BROWN"
+    },
+    {
+      "id": 7,
+      "title": "Группа 7 • Красная",
+      "subtitle": "корабль — лопата",
+      "column": 2,
+      "color": "RED"
+    },
+    {
+      "id": 8,
+      "title": "Группа 8 • Зелёная",
+      "subtitle": "машина — морковь",
+      "column": 2,
+      "color": "GREEN"
+    },
+    {
+      "id": 9,
+      "title": "Группа 9 • Красная",
+      "subtitle": "мороз — овраг",
+      "column": 2,
+      "color": "RED"
+    },
+    {
+      "id": 10,
+      "title": "Группа 10 • Оранжевая",
+      "subtitle": "огурец — пенал",
+      "column": 2,
+      "color": "ORANGE"
+    },
+    {
+      "id": 11,
+      "title": "Группа 11 • Фиолетовая",
+      "subtitle": "петух — понедельник",
+      "column": 2,
+      "color": "PURPLE"
+    },
+    {
+      "id": 12,
+      "title": "Группа 12 • Синяя",
+      "subtitle": "посуда — русский",
+      "column": 3,
+      "color": "BLUE"
+    },
+    {
+      "id": 13,
+      "title": "Группа 13 • Зелёная",
+      "subtitle": "сапоги — сорока",
+      "column": 3,
+      "color": "GREEN"
+    },
+    {
+      "id": 14,
+      "title": "Группа 14 • Фиолетовая",
+      "subtitle": "стакан — тетрадь",
+      "column": 3,
+      "color": "PURPLE"
+    },
+    {
+      "id": 15,
+      "title": "Группа 15 • Оранжевая",
+      "subtitle": "товарищ — хорошо",
+      "column": 3,
+      "color": "ORANGE"
+    },
+    {
+      "id": 16,
+      "title": "Группа 16 • Красная",
+      "subtitle": "яблоко — язык",
+      "column": 3,
+      "color": "RED"
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "word": "абзац",
+      "stress": 3,
+      "group": 1,
+      "column": 1,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 0,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "э"
+          ],
+          "note": "Первая буква А, как в начале алфавита",
+          "length": 1
+        },
+        {
+          "index": 1,
+          "correct": "б",
+          "wrong": [
+            "п",
+            "в"
+          ],
+          "note": "Запомни парную согласную Б: аБзац",
+          "length": 1
+        }
+      ],
+      "hint": "Абзац начинает новый отступ с первой буквы алфавита — А!",
+      "tags": [
+        "UNSTRESSED_A",
+        "PAIRED_CONSONANT",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 2,
+      "word": "альбом",
+      "stress": 4,
+      "group": 1,
+      "column": 1,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 0,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "э"
+          ],
+          "note": "Безударная А в начале слова",
+          "length": 1
+        },
+        {
+          "index": 2,
+          "correct": "ь",
+          "wrong": [
+            "й",
+            "ъ"
+          ],
+          "note": "Мягкий знак смягчает Л: аЛЬбом",
+          "length": 1
+        }
+      ],
+      "hint": "Аня рисует в Альбоме акварелью.",
+      "tags": [
+        "UNSTRESSED_A",
+        "SPECIAL_RULES",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 3,
+      "word": "арбуз",
+      "stress": 3,
+      "group": 1,
+      "column": 1,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 0,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "у"
+          ],
+          "note": "Алый Арбуз начинается с А",
+          "length": 1
+        },
+        {
+          "index": 4,
+          "correct": "з",
+          "wrong": [
+            "с",
+            "ц"
+          ],
+          "note": "Проверка парной согласной: арбуЗы",
+          "length": 1
+        }
+      ],
+      "hint": "Алый сладкий АрбуЗ — проверим словом «арбузы»!",
+      "tags": [
+        "UNSTRESSED_A",
+        "PAIRED_CONSONANT",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 4,
+      "word": "барабан",
+      "stress": 5,
+      "group": 1,
+      "column": 1,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "у"
+          ],
+          "note": "Первая А: бА-ра-бан",
+          "length": 1
+        },
+        {
+          "index": 3,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "ы"
+          ],
+          "note": "Вторая А: ба-рА-бан — три буквы А!",
+          "length": 1
+        }
+      ],
+      "hint": "Барабан бьёт: БАМ-БАМ-БАМ! В слове целых три буквы А.",
+      "tags": [
+        "UNSTRESSED_A",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 5,
+      "word": "берёза",
+      "stress": 3,
+      "group": 1,
+      "column": 1,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "Белая бЕрёза — пишем через Е",
+          "length": 1
+        }
+      ],
+      "hint": "Берёза белая, поэтому пишем букву Е, как в слове «белый»!",
+      "tags": [
+        "UNSTRESSED_E_I"
+      ]
+    },
+    {
+      "id": 6,
+      "word": "билет",
+      "stress": 3,
+      "group": 2,
+      "column": 1,
+      "color": "BLUE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "и",
+          "wrong": [
+            "е",
+            "я"
+          ],
+          "note": "Запомни безударную И: бИлет",
+          "length": 1
+        }
+      ],
+      "hint": "В кино и в цирк нужен бИлет — с буквой И!",
+      "tags": [
+        "UNSTRESSED_E_I"
+      ]
+    },
+    {
+      "id": 7,
+      "word": "быстро",
+      "stress": 1,
+      "group": 2,
+      "column": 1,
+      "color": "BLUE",
+      "orthograms": [
+        {
+          "index": 5,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "На конце наречия пишем суффикс О: быстрО",
+          "length": 1
+        }
+      ],
+      "hint": "Колесо катится быстрО — на конце круглая буква О!",
+      "tags": [
+        "UNSTRESSED_O"
+      ]
+    },
+    {
+      "id": 8,
+      "word": "вдруг",
+      "stress": 3,
+      "group": 2,
+      "column": 1,
+      "color": "BLUE",
+      "orthograms": [
+        {
+          "index": 0,
+          "correct": "в",
+          "wrong": [
+            "ф",
+            "у"
+          ],
+          "note": "В начале слова согласная В",
+          "length": 1
+        },
+        {
+          "index": 4,
+          "correct": "г",
+          "wrong": [
+            "к",
+            "х"
+          ],
+          "note": "На конце пишем букву Г, как в слове «друг»",
+          "length": 1
+        }
+      ],
+      "hint": "Вдруг пришёл лучший друГ — внутри спряталось слово ДРУГ!",
+      "tags": [
+        "PAIRED_CONSONANT",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 9,
+      "word": "весело",
+      "stress": 1,
+      "group": 2,
+      "column": 1,
+      "color": "BLUE",
+      "orthograms": [
+        {
+          "index": 3,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "Проверочное слово: весЁлый — пишем Е",
+          "length": 1
+        },
+        {
+          "index": 5,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "е"
+          ],
+          "note": "На конце наречия пишем О: веселО",
+          "length": 1
+        }
+      ],
+      "hint": "Весёлый клоун смеётся: весЕлО!",
+      "tags": [
+        "UNSTRESSED_E_I",
+        "UNSTRESSED_O",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 10,
+      "word": "ветер",
+      "stress": 1,
+      "group": 2,
+      "column": 1,
+      "color": "BLUE",
+      "orthograms": [
+        {
+          "index": 3,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "Две буквы Е: вЕтЕр",
+          "length": 1
+        }
+      ],
+      "hint": "Ветер веет — в слове вЕтЕр обе гласные Е!",
+      "tags": [
+        "UNSTRESSED_E_I"
+      ]
+    },
+    {
+      "id": 11,
+      "word": "виноград",
+      "stress": 6,
+      "group": 3,
+      "column": 1,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "и",
+          "wrong": [
+            "е",
+            "я"
+          ],
+          "note": "Первая гласная И: вИноград",
+          "length": 1
+        },
+        {
+          "index": 3,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "е"
+          ],
+          "note": "Соединительная гласная О: винОград",
+          "length": 1
+        },
+        {
+          "index": 7,
+          "correct": "д",
+          "wrong": [
+            "т",
+            "г"
+          ],
+          "note": "Проверка парной согласной: винограДинка",
+          "length": 1
+        }
+      ],
+      "hint": "ВИтаминный винОграД растёт гроздьями в саду!",
+      "tags": [
+        "UNSTRESSED_E_I",
+        "UNSTRESSED_O",
+        "PAIRED_CONSONANT",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 12,
+      "word": "воробей",
+      "stress": 5,
+      "group": 3,
+      "column": 1,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Сочетание -ОРО-: вОробей",
+          "length": 1
+        },
+        {
+          "index": 3,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "е"
+          ],
+          "note": "Сочетание -ОРО-: ворОбей",
+          "length": 1
+        }
+      ],
+      "hint": "Золотое правило: сочетание -ОРО- в слове вОробей пишется с двумя О!",
+      "tags": [
+        "ORO_OLO",
+        "UNSTRESSED_O",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 13,
+      "word": "ворона",
+      "stress": 3,
+      "group": 3,
+      "column": 1,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Сочетание -ОРО-: вОрона",
+          "length": 1
+        }
+      ],
+      "hint": "У вОроны и вОронов сочетание -ОРО- всегда с О!",
+      "tags": [
+        "ORO_OLO",
+        "UNSTRESSED_O"
+      ]
+    },
+    {
+      "id": 14,
+      "word": "газета",
+      "stress": 3,
+      "group": 3,
+      "column": 1,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "э"
+          ],
+          "note": "Безударная гласная А: гАзета",
+          "length": 1
+        }
+      ],
+      "hint": "Папа читает свежую гАзету за завтраком.",
+      "tags": [
+        "UNSTRESSED_A"
+      ]
+    },
+    {
+      "id": 15,
+      "word": "город",
+      "stress": 1,
+      "group": 3,
+      "column": 1,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 3,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "ы"
+          ],
+          "note": "Сочетание -ОРО-: горОд",
+          "length": 1
+        },
+        {
+          "index": 4,
+          "correct": "д",
+          "wrong": [
+            "т",
+            "к"
+          ],
+          "note": "Проверка парной согласной: гороДа",
+          "length": 1
+        }
+      ],
+      "hint": "В горОДе широкие улицы — сочетание -ОРО- и проверочное «города»!",
+      "tags": [
+        "ORO_OLO",
+        "PAIRED_CONSONANT",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 16,
+      "word": "девочка",
+      "stress": 1,
+      "group": 4,
+      "column": 1,
+      "color": "PURPLE",
+      "orthograms": [
+        {
+          "index": 3,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "е"
+          ],
+          "note": "Суффикс -ОЧК-: девОчка",
+          "length": 1
+        }
+      ],
+      "hint": "ДевОчка в веночке — пишем букву О, а ЧК без мягкого знака!",
+      "tags": [
+        "UNSTRESSED_O",
+        "SPECIAL_RULES"
+      ]
+    },
+    {
+      "id": 17,
+      "word": "дежурный",
+      "stress": 3,
+      "group": 4,
+      "column": 1,
+      "color": "PURPLE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "Безударная Е: дЕжурный",
+          "length": 1
+        }
+      ],
+      "hint": "ДЕжурный следит за порядком в классе каждый дЕнь!",
+      "tags": [
+        "UNSTRESSED_E_I"
+      ]
+    },
+    {
+      "id": 18,
+      "word": "деревня",
+      "stress": 3,
+      "group": 4,
+      "column": 1,
+      "color": "PURPLE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "Безударная Е: дЕревня (от слова дЕрево)",
+          "length": 1
+        }
+      ],
+      "hint": "В дЕревне дома построены из дЕрева — две буквы Е!",
+      "tags": [
+        "UNSTRESSED_E_I"
+      ]
+    },
+    {
+      "id": 19,
+      "word": "директор",
+      "stress": 3,
+      "group": 4,
+      "column": 1,
+      "color": "PURPLE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "и",
+          "wrong": [
+            "е",
+            "я"
+          ],
+          "note": "В начале корня пишем И: дИректор",
+          "length": 1
+        },
+        {
+          "index": 6,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "е"
+          ],
+          "note": "На конце суффикс -ОР: директОр",
+          "length": 1
+        }
+      ],
+      "hint": "ДИректОр руководит школой — запомни И в начале и О в конце!",
+      "tags": [
+        "UNSTRESSED_E_I",
+        "UNSTRESSED_O",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 20,
+      "word": "железо",
+      "stress": 3,
+      "group": 4,
+      "column": 1,
+      "color": "PURPLE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "ы"
+          ],
+          "note": "Первая гласная Е: жЕлезо",
+          "length": 1
+        },
+        {
+          "index": 5,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "е"
+          ],
+          "note": "Окончание О: железО",
+          "length": 1
+        }
+      ],
+      "hint": "ЖЕлезный слиток в печи: жЕ-ле-зО!",
+      "tags": [
+        "UNSTRESSED_E_I",
+        "UNSTRESSED_O",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 21,
+      "word": "завод",
+      "stress": 3,
+      "group": 5,
+      "column": 1,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "у"
+          ],
+          "note": "Безударная А: зАвод",
+          "length": 1
+        },
+        {
+          "index": 4,
+          "correct": "д",
+          "wrong": [
+            "т",
+            "с"
+          ],
+          "note": "Проверка парной согласной: завоДы",
+          "length": 1
+        }
+      ],
+      "hint": "На зАвоДе кипит работа — проверяем конец словом «заводы»!",
+      "tags": [
+        "UNSTRESSED_A",
+        "PAIRED_CONSONANT",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 22,
+      "word": "заяц",
+      "stress": 1,
+      "group": 5,
+      "column": 1,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 2,
+          "correct": "я",
+          "wrong": [
+            "и",
+            "е"
+          ],
+          "note": "После ударной А пишем букву Я: заЯц",
+          "length": 1
+        }
+      ],
+      "hint": "Ушастый заЯц спрятался под яблоней — пишем с буквой Я!",
+      "tags": [
+        "UNSTRESSED_E_I"
+      ]
+    },
+    {
+      "id": 23,
+      "word": "иней",
+      "stress": 0,
+      "group": 5,
+      "column": 1,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 2,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "Безударная гласная Е: инЕй",
+          "length": 1
+        }
+      ],
+      "hint": "Белый блестящий инЕй покрыл ветки как снЕг.",
+      "tags": [
+        "UNSTRESSED_E_I"
+      ]
+    },
+    {
+      "id": 24,
+      "word": "канава",
+      "stress": 3,
+      "group": 5,
+      "column": 1,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "ы"
+          ],
+          "note": "Три буквы А в слове кАнава",
+          "length": 1
+        }
+      ],
+      "hint": "К-А-н-А-в-А — все три гласные в этом слове буквы А!",
+      "tags": [
+        "UNSTRESSED_A"
+      ]
+    },
+    {
+      "id": 25,
+      "word": "капуста",
+      "stress": 3,
+      "group": 5,
+      "column": 1,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "у"
+          ],
+          "note": "Безударная А: кАпуста",
+          "length": 1
+        }
+      ],
+      "hint": "Зайчик хрустит сочной кАпустой на грядке.",
+      "tags": [
+        "UNSTRESSED_A"
+      ]
+    },
+    {
+      "id": 26,
+      "word": "карандаш",
+      "stress": 6,
+      "group": 6,
+      "column": 1,
+      "color": "BROWN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "е"
+          ],
+          "note": "Первая А: кАрандаш",
+          "length": 1
+        },
+        {
+          "index": 3,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "ы"
+          ],
+          "note": "Вторая А: карАндаш — три буквы А!",
+          "length": 1
+        }
+      ],
+      "hint": "КАрАндаш рисует в альбоме — все три гласные здесь буквы А!",
+      "tags": [
+        "UNSTRESSED_A",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 27,
+      "word": "карман",
+      "stress": 4,
+      "group": 6,
+      "column": 2,
+      "color": "BROWN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "ы"
+          ],
+          "note": "Две буквы А: кАрмАн",
+          "length": 1
+        }
+      ],
+      "hint": "В кАрмане лежит кАрта сокровищ!",
+      "tags": [
+        "UNSTRESSED_A"
+      ]
+    },
+    {
+      "id": 28,
+      "word": "картофель",
+      "stress": 4,
+      "group": 6,
+      "column": 2,
+      "color": "BROWN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "ы"
+          ],
+          "note": "В первом слоге пишем А: кАртофель",
+          "length": 1
+        },
+        {
+          "index": 6,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "В суффиксе пишем Е: картофЕль",
+          "length": 1
+        },
+        {
+          "index": 8,
+          "correct": "ь",
+          "wrong": [
+            "й",
+            "ъ"
+          ],
+          "note": "Мягкий знак на конце: картофелЬ",
+          "length": 1
+        }
+      ],
+      "hint": "Вкусный кАртофЕлЬ печётся в костре.",
+      "tags": [
+        "UNSTRESSED_A",
+        "UNSTRESSED_E_I",
+        "SPECIAL_RULES",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 29,
+      "word": "класс",
+      "stress": 2,
+      "group": 6,
+      "column": 2,
+      "color": "BROWN",
+      "orthograms": [
+        {
+          "index": 3,
+          "correct": "сс",
+          "wrong": [
+            "с",
+            "зс",
+            "сц"
+          ],
+          "note": "Двойная согласная СС на конце слова клаСС",
+          "length": 2
+        }
+      ],
+      "hint": "Дружный школьный клаСС всегда пишется с двумя буквами СС!",
+      "tags": [
+        "DOUBLE_CONSONANT"
+      ]
+    },
+    {
+      "id": 30,
+      "word": "концерт",
+      "stress": 4,
+      "group": 6,
+      "column": 2,
+      "color": "BROWN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Безударная гласная О: кОнцерт",
+          "length": 1
+        }
+      ],
+      "hint": "На музыкальном кОнцерте звучит оркестр.",
+      "tags": [
+        "UNSTRESSED_O"
+      ]
+    },
+    {
+      "id": 31,
+      "word": "корабль",
+      "stress": 3,
+      "group": 7,
+      "column": 2,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Безударная О: кОрабль",
+          "length": 1
+        },
+        {
+          "index": 6,
+          "correct": "ь",
+          "wrong": [
+            "й",
+            "ъ"
+          ],
+          "note": "Мягкий знак на конце: кораблЬ",
+          "length": 1
+        }
+      ],
+      "hint": "Большой кОраблЬ плывёт по мОрю под парусами!",
+      "tags": [
+        "UNSTRESSED_O",
+        "SPECIAL_RULES",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 32,
+      "word": "коридор",
+      "stress": 5,
+      "group": 7,
+      "column": 2,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Первая гласная О: кОридор",
+          "length": 1
+        },
+        {
+          "index": 3,
+          "correct": "и",
+          "wrong": [
+            "е",
+            "я"
+          ],
+          "note": "Вторая гласная И: корИдор",
+          "length": 1
+        }
+      ],
+      "hint": "Длинный школьный кОрИдор — запомни О и И!",
+      "tags": [
+        "UNSTRESSED_O",
+        "UNSTRESSED_E_I",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 33,
+      "word": "корова",
+      "stress": 3,
+      "group": 7,
+      "column": 2,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Сочетание -ОРО-: кОрова",
+          "length": 1
+        }
+      ],
+      "hint": "Рыжая кОрова даёт мОлОкО — сочетание -ОРО- всегда с О!",
+      "tags": [
+        "ORO_OLO",
+        "UNSTRESSED_O"
+      ]
+    },
+    {
+      "id": 34,
+      "word": "ладонь",
+      "stress": 3,
+      "group": 7,
+      "column": 2,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "э"
+          ],
+          "note": "Безударная А: лАдонь (от слова лАдушки)",
+          "length": 1
+        }
+      ],
+      "hint": "Хлопаем в лАдоши — играем в «лАдушки»!",
+      "tags": [
+        "UNSTRESSED_A",
+        "SPECIAL_RULES"
+      ]
+    },
+    {
+      "id": 35,
+      "word": "лопата",
+      "stress": 3,
+      "group": 7,
+      "column": 2,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Безударная гласная О: лОпата",
+          "length": 1
+        }
+      ],
+      "hint": "Железная лОпата копает блоки земли в шахте!",
+      "tags": [
+        "UNSTRESSED_O"
+      ]
+    },
+    {
+      "id": 36,
+      "word": "машина",
+      "stress": 3,
+      "group": 8,
+      "column": 2,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "ы"
+          ],
+          "note": "Первая гласная А: мАшина",
+          "length": 1
+        },
+        {
+          "index": 3,
+          "correct": "и",
+          "wrong": [
+            "ы",
+            "е"
+          ],
+          "note": "Правило ЖИ-ШИ пиши с буквой И: машИна",
+          "length": 1
+        }
+      ],
+      "hint": "Быстрая мАшИна мчится по шоссе — не забудь правило ШИ!",
+      "tags": [
+        "UNSTRESSED_A",
+        "SPECIAL_RULES",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 37,
+      "word": "мебель",
+      "stress": 1,
+      "group": 8,
+      "column": 2,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 3,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "Две буквы Е: мЕбЕль",
+          "length": 1
+        }
+      ],
+      "hint": "Деревянная мЕбЕль для уютного дома в деревне.",
+      "tags": [
+        "UNSTRESSED_E_I",
+        "SPECIAL_RULES"
+      ]
+    },
+    {
+      "id": 38,
+      "word": "медведь",
+      "stress": 4,
+      "group": 8,
+      "column": 2,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "Медведь ведает, где мЁд — пишем Е",
+          "length": 1
+        },
+        {
+          "index": 5,
+          "correct": "д",
+          "wrong": [
+            "т",
+            "ц"
+          ],
+          "note": "Проверка парной согласной: медвеДи",
+          "length": 1
+        }
+      ],
+      "hint": "МЕдвеДь любит сладкий мёд — проверим словом «медведи»!",
+      "tags": [
+        "UNSTRESSED_E_I",
+        "PAIRED_CONSONANT",
+        "SPECIAL_RULES",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 39,
+      "word": "молоко",
+      "stress": 5,
+      "group": 8,
+      "column": 2,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Сочетание -ОЛО-: мОлоко",
+          "length": 1
+        },
+        {
+          "index": 3,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "е"
+          ],
+          "note": "Сочетание -ОЛО-: молОко — три буквы О!",
+          "length": 1
+        }
+      ],
+      "hint": "В слове мОлОкО три круглые капли — три буквы О (сочетание -ОЛО-)!",
+      "tags": [
+        "ORO_OLO",
+        "UNSTRESSED_O",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 40,
+      "word": "морковь",
+      "stress": 4,
+      "group": 8,
+      "column": 2,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Безударная О: мОрковь",
+          "length": 1
+        },
+        {
+          "index": 5,
+          "correct": "в",
+          "wrong": [
+            "ф",
+            "б"
+          ],
+          "note": "Проверка парной согласной: моркоВка",
+          "length": 1
+        }
+      ],
+      "hint": "Сладкая оранжевая мОркоВь — проверим словом «морковка»!",
+      "tags": [
+        "UNSTRESSED_O",
+        "PAIRED_CONSONANT",
+        "SPECIAL_RULES",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 41,
+      "word": "мороз",
+      "stress": 3,
+      "group": 9,
+      "column": 2,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Сочетание -ОРО-: мОроз",
+          "length": 1
+        },
+        {
+          "index": 4,
+          "correct": "з",
+          "wrong": [
+            "с",
+            "ц"
+          ],
+          "note": "Проверка парной согласной: мороЗы",
+          "length": 1
+        }
+      ],
+      "hint": "Трескучий зимний мОроЗ — сочетание -ОРО- и проверочное «морозы»!",
+      "tags": [
+        "ORO_OLO",
+        "PAIRED_CONSONANT",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 42,
+      "word": "Москва",
+      "stress": 5,
+      "group": 9,
+      "column": 2,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 0,
+          "correct": "М",
+          "wrong": [
+            "м",
+            "Н"
+          ],
+          "note": "Название столицы пишется с заглавной буквы М",
+          "length": 1
+        },
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Безударная гласная О: МОсква",
+          "length": 1
+        }
+      ],
+      "hint": "Столица России — город МОсква, пишем с большой буквы М и гласной О!",
+      "tags": [
+        "UNSTRESSED_O",
+        "SPECIAL_RULES",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 43,
+      "word": "народ",
+      "stress": 3,
+      "group": 9,
+      "column": 2,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "э"
+          ],
+          "note": "Безударная А: нАрод",
+          "length": 1
+        },
+        {
+          "index": 4,
+          "correct": "д",
+          "wrong": [
+            "т",
+            "г"
+          ],
+          "note": "Проверка парной согласной: нароДы",
+          "length": 1
+        }
+      ],
+      "hint": "Дружный нАроД строит большой город — проверим словом «народы»!",
+      "tags": [
+        "UNSTRESSED_A",
+        "PAIRED_CONSONANT",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 44,
+      "word": "облако",
+      "stress": 0,
+      "group": 9,
+      "column": 2,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 3,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "ы"
+          ],
+          "note": "В середине пишем А: облАко",
+          "length": 1
+        },
+        {
+          "index": 5,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "е"
+          ],
+          "note": "На конце пишем О: облакО",
+          "length": 1
+        }
+      ],
+      "hint": "Пушистое белое О-блА-кО плывёт высоко в небе!",
+      "tags": [
+        "UNSTRESSED_A",
+        "UNSTRESSED_O",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 45,
+      "word": "овраг",
+      "stress": 3,
+      "group": 9,
+      "column": 2,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 0,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "В начале слова круглая О: Овраг",
+          "length": 1
+        },
+        {
+          "index": 4,
+          "correct": "г",
+          "wrong": [
+            "к",
+            "х"
+          ],
+          "note": "Проверка парной согласной: овраГи",
+          "length": 1
+        }
+      ],
+      "hint": "Глубокий ОвраГ в лесу — проверим конец словом «овраги»!",
+      "tags": [
+        "UNSTRESSED_O",
+        "PAIRED_CONSONANT",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 46,
+      "word": "огурец",
+      "stress": 4,
+      "group": 10,
+      "column": 2,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 0,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Зелёный овальный Огурец начинается с О",
+          "length": 1
+        }
+      ],
+      "hint": "Хрустящий Огурец похож на овал — начинается с буквы О!",
+      "tags": [
+        "UNSTRESSED_O"
+      ]
+    },
+    {
+      "id": 47,
+      "word": "одежда",
+      "stress": 2,
+      "group": 10,
+      "column": 2,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 0,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "э"
+          ],
+          "note": "Безударная О в начале: Одежда",
+          "length": 1
+        }
+      ],
+      "hint": "Тёплую Одежду надевают осенью.",
+      "tags": [
+        "UNSTRESSED_O"
+      ]
+    },
+    {
+      "id": 48,
+      "word": "пальто",
+      "stress": 5,
+      "group": 10,
+      "column": 2,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "э"
+          ],
+          "note": "Безударная А: пАльто",
+          "length": 1
+        },
+        {
+          "index": 3,
+          "correct": "ь",
+          "wrong": [
+            "й",
+            "ъ"
+          ],
+          "note": "Мягкий знак в середине: палЬто",
+          "length": 1
+        }
+      ],
+      "hint": "Осеннее пАлЬто висит в шкафу.",
+      "tags": [
+        "UNSTRESSED_A",
+        "SPECIAL_RULES",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 49,
+      "word": "пассажир",
+      "stress": 6,
+      "group": 10,
+      "column": 2,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "ы"
+          ],
+          "note": "Первая гласная А: пАссажир",
+          "length": 1
+        },
+        {
+          "index": 2,
+          "correct": "сс",
+          "wrong": [
+            "с",
+            "зс",
+            "сц"
+          ],
+          "note": "Удвоенная согласная СС: паССажир",
+          "length": 2
+        },
+        {
+          "index": 6,
+          "correct": "и",
+          "wrong": [
+            "ы",
+            "е"
+          ],
+          "note": "Правило ЖИ-ШИ пиши с И: пассажИр",
+          "length": 1
+        }
+      ],
+      "hint": "В слове пАССажИр сразу 3 секрета: буква А, двойная СС и сочетание ЖИ!",
+      "tags": [
+        "UNSTRESSED_A",
+        "DOUBLE_CONSONANT",
+        "SPECIAL_RULES",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 50,
+      "word": "пенал",
+      "stress": 3,
+      "group": 10,
+      "column": 2,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "От слова «пЕро» (перья): пЕнал",
+          "length": 1
+        }
+      ],
+      "hint": "Раньше в пЕнале хранили пЕрья для письма — поэтому буква Е!",
+      "tags": [
+        "UNSTRESSED_E_I"
+      ]
+    },
+    {
+      "id": 51,
+      "word": "петух",
+      "stress": 3,
+      "group": 11,
+      "column": 2,
+      "color": "PURPLE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "Петух распЕвает песни на заре: пЕтух",
+          "length": 1
+        }
+      ],
+      "hint": "Голосистый пЕтух пЕсни поёт по утрам!",
+      "tags": [
+        "UNSTRESSED_E_I"
+      ]
+    },
+    {
+      "id": 52,
+      "word": "платок",
+      "stress": 4,
+      "group": 11,
+      "column": 2,
+      "color": "PURPLE",
+      "orthograms": [
+        {
+          "index": 2,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "ы"
+          ],
+          "note": "Безударная гласная А: плАток",
+          "length": 1
+        }
+      ],
+      "hint": "Красивый узорчатый плАток подарили бабушке.",
+      "tags": [
+        "UNSTRESSED_A"
+      ]
+    },
+    {
+      "id": 53,
+      "word": "погода",
+      "stress": 3,
+      "group": 11,
+      "column": 3,
+      "color": "PURPLE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Две буквы О подряд: пОгОда",
+          "length": 1
+        }
+      ],
+      "hint": "Солнечная пОгОда радует весь день!",
+      "tags": [
+        "UNSTRESSED_O"
+      ]
+    },
+    {
+      "id": 54,
+      "word": "помидор",
+      "stress": 5,
+      "group": 11,
+      "column": 3,
+      "color": "PURPLE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Первая гласная О: пОмидор",
+          "length": 1
+        },
+        {
+          "index": 3,
+          "correct": "и",
+          "wrong": [
+            "е",
+            "я"
+          ],
+          "note": "Вторая гласная И: помИдор",
+          "length": 1
+        }
+      ],
+      "hint": "Круглый красный пОмИдор вырос на грядке — запомни О и И!",
+      "tags": [
+        "UNSTRESSED_O",
+        "UNSTRESSED_E_I",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 55,
+      "word": "понедельник",
+      "stress": 5,
+      "group": 11,
+      "column": 3,
+      "color": "PURPLE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Приставка ПО-: пОнедельник",
+          "length": 1
+        },
+        {
+          "index": 3,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "После НЕ- идёт день после «недели»: понЕдельник",
+          "length": 1
+        }
+      ],
+      "hint": "ПОнЕдельник — первый день рабочей нЕдели!",
+      "tags": [
+        "UNSTRESSED_O",
+        "UNSTRESSED_E_I",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 56,
+      "word": "посуда",
+      "stress": 3,
+      "group": 12,
+      "column": 3,
+      "color": "BLUE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Безударная гласная О: пОсуда",
+          "length": 1
+        }
+      ],
+      "hint": "Чистая пОсуда блестит на пОлке.",
+      "tags": [
+        "UNSTRESSED_O"
+      ]
+    },
+    {
+      "id": 57,
+      "word": "пятница",
+      "stress": 1,
+      "group": 12,
+      "column": 3,
+      "color": "BLUE",
+      "orthograms": [
+        {
+          "index": 4,
+          "correct": "и",
+          "wrong": [
+            "е",
+            "я"
+          ],
+          "note": "Суффикс -ИЦ-: пятнИца",
+          "length": 1
+        }
+      ],
+      "hint": "ПятнИца — пятый день недели, пишем суффикс -ИЦ-!",
+      "tags": [
+        "UNSTRESSED_E_I"
+      ]
+    },
+    {
+      "id": 58,
+      "word": "работа",
+      "stress": 3,
+      "group": 12,
+      "column": 3,
+      "color": "BLUE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "ы"
+          ],
+          "note": "Безударная гласная А: рАбота",
+          "length": 1
+        }
+      ],
+      "hint": "Дружная рАбота спорится в руках мастеров!",
+      "tags": [
+        "UNSTRESSED_A"
+      ]
+    },
+    {
+      "id": 59,
+      "word": "рабочий",
+      "stress": 3,
+      "group": 12,
+      "column": 3,
+      "color": "BLUE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "ы"
+          ],
+          "note": "Корень как в слове рАбота: рАбочий",
+          "length": 1
+        },
+        {
+          "index": 5,
+          "correct": "и",
+          "wrong": [
+            "е",
+            "ы"
+          ],
+          "note": "Окончание -ИЙ после Ч: рабочИй",
+          "length": 1
+        }
+      ],
+      "hint": "РАбочИй строит высокий дом из блоков.",
+      "tags": [
+        "UNSTRESSED_A",
+        "UNSTRESSED_E_I",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 60,
+      "word": "ребята",
+      "stress": 3,
+      "group": 12,
+      "column": 3,
+      "color": "BLUE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "Безударная гласная Е: рЕбята",
+          "length": 1
+        }
+      ],
+      "hint": "Дружные рЕбята играют все вместе во дворе.",
+      "tags": [
+        "UNSTRESSED_E_I"
+      ]
+    },
+    {
+      "id": 61,
+      "word": "родина",
+      "stress": 1,
+      "group": 12,
+      "column": 3,
+      "color": "BLUE",
+      "orthograms": [
+        {
+          "index": 3,
+          "correct": "и",
+          "wrong": [
+            "е",
+            "я"
+          ],
+          "note": "Безударная И в суффиксе: родИна",
+          "length": 1
+        }
+      ],
+      "hint": "Любимая РодИна — родной край, где мы родились.",
+      "tags": [
+        "UNSTRESSED_E_I"
+      ]
+    },
+    {
+      "id": 62,
+      "word": "русский",
+      "stress": 1,
+      "group": 12,
+      "column": 3,
+      "color": "BLUE",
+      "orthograms": [
+        {
+          "index": 2,
+          "correct": "сс",
+          "wrong": [
+            "с",
+            "зс",
+            "сц"
+          ],
+          "note": "Две буквы СС на стыке корня Русь и суффикса -СК-: руССкий",
+          "length": 2
+        }
+      ],
+      "hint": "Богатый руССкий язык — пишем с удвоенной согласной СС!",
+      "tags": [
+        "DOUBLE_CONSONANT"
+      ]
+    },
+    {
+      "id": 63,
+      "word": "сапоги",
+      "stress": 5,
+      "group": 13,
+      "column": 3,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "ы"
+          ],
+          "note": "Первая гласная А: сАпоги",
+          "length": 1
+        },
+        {
+          "index": 3,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Вторая гласная О (проверка — сапОг): сапОги",
+          "length": 1
+        }
+      ],
+      "hint": "Непромокаемые сАпОги шагают по лужам — сначала А, потом О!",
+      "tags": [
+        "UNSTRESSED_A",
+        "UNSTRESSED_O",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 64,
+      "word": "сахар",
+      "stress": 1,
+      "group": 13,
+      "column": 3,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 3,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "ы"
+          ],
+          "note": "Две буквы А: сАхАр",
+          "length": 1
+        }
+      ],
+      "hint": "Сладкий белый сАхАр — обе гласные буквы А!",
+      "tags": [
+        "UNSTRESSED_A"
+      ]
+    },
+    {
+      "id": 65,
+      "word": "скоро",
+      "stress": 2,
+      "group": 13,
+      "column": 3,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 4,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Две буквы О: скОрО",
+          "length": 1
+        }
+      ],
+      "hint": "СкОрО прозвенит звонок на перемену!",
+      "tags": [
+        "UNSTRESSED_O"
+      ]
+    },
+    {
+      "id": 66,
+      "word": "собака",
+      "stress": 3,
+      "group": 13,
+      "column": 3,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Безударная гласная О: сОбака",
+          "length": 1
+        }
+      ],
+      "hint": "Верная сОбака охраняет наш дом.",
+      "tags": [
+        "UNSTRESSED_O"
+      ]
+    },
+    {
+      "id": 67,
+      "word": "сорока",
+      "stress": 3,
+      "group": 13,
+      "column": 3,
+      "color": "GREEN",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Сочетание -ОРО-: сОрока",
+          "length": 1
+        }
+      ],
+      "hint": "Белобокая сОрока стрекочет в лесу — сочетание -ОРО-!",
+      "tags": [
+        "ORO_OLO",
+        "UNSTRESSED_O"
+      ]
+    },
+    {
+      "id": 68,
+      "word": "стакан",
+      "stress": 4,
+      "group": 14,
+      "column": 3,
+      "color": "PURPLE",
+      "orthograms": [
+        {
+          "index": 2,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "ы"
+          ],
+          "note": "Две буквы А: стАкАн",
+          "length": 1
+        }
+      ],
+      "hint": "Полный стАкАн тёплого молока — обе гласные А!",
+      "tags": [
+        "UNSTRESSED_A"
+      ]
+    },
+    {
+      "id": 69,
+      "word": "суббота",
+      "stress": 4,
+      "group": 14,
+      "column": 3,
+      "color": "PURPLE",
+      "orthograms": [
+        {
+          "index": 2,
+          "correct": "бб",
+          "wrong": [
+            "б",
+            "пб",
+            "бп"
+          ],
+          "note": "Двойная согласная ББ в слове суББота",
+          "length": 2
+        }
+      ],
+      "hint": "Выходной день суББота всегда пишется с двумя буквами ББ!",
+      "tags": [
+        "DOUBLE_CONSONANT"
+      ]
+    },
+    {
+      "id": 70,
+      "word": "тетрадь",
+      "stress": 4,
+      "group": 14,
+      "column": 3,
+      "color": "PURPLE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "Безударная Е: тЕтрадь",
+          "length": 1
+        },
+        {
+          "index": 5,
+          "correct": "д",
+          "wrong": [
+            "т",
+            "ть"
+          ],
+          "note": "Проверка парной согласной: тетраДи",
+          "length": 1
+        }
+      ],
+      "hint": "Аккуратная школьная тЕтраДь — проверим конец словом «тетради»!",
+      "tags": [
+        "UNSTRESSED_E_I",
+        "PAIRED_CONSONANT",
+        "SPECIAL_RULES",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 71,
+      "word": "товарищ",
+      "stress": 3,
+      "group": 15,
+      "column": 3,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Первая гласная О: тОварищ",
+          "length": 1
+        },
+        {
+          "index": 5,
+          "correct": "и",
+          "wrong": [
+            "е",
+            "я"
+          ],
+          "note": "В суффиксе пишем И: товарИщ",
+          "length": 1
+        }
+      ],
+      "hint": "Надёжный тОварИщ всегда придёт на выручку в игре!",
+      "tags": [
+        "UNSTRESSED_O",
+        "UNSTRESSED_E_I",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 72,
+      "word": "ученик",
+      "stress": 4,
+      "group": 15,
+      "column": 3,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 2,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "Суффикс -ЕНИК-: учЕник (проверка: учЕние)",
+          "length": 1
+        }
+      ],
+      "hint": "Старательный учЕник получает пятёрки!",
+      "tags": [
+        "UNSTRESSED_E_I"
+      ]
+    },
+    {
+      "id": 73,
+      "word": "учитель",
+      "stress": 2,
+      "group": 15,
+      "column": 3,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 4,
+          "correct": "е",
+          "wrong": [
+            "и",
+            "я"
+          ],
+          "note": "Суффикс -ТЕЛЬ-: учитЕль",
+          "length": 1
+        },
+        {
+          "index": 6,
+          "correct": "ь",
+          "wrong": [
+            "й",
+            "ъ"
+          ],
+          "note": "Мягкий знак на конце: учителЬ",
+          "length": 1
+        }
+      ],
+      "hint": "Мудрый учитЕлЬ объясняет правила у доски.",
+      "tags": [
+        "UNSTRESSED_E_I",
+        "SPECIAL_RULES",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 74,
+      "word": "фамилия",
+      "stress": 3,
+      "group": 15,
+      "column": 3,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "а",
+          "wrong": [
+            "о",
+            "э"
+          ],
+          "note": "Первая гласная А: фАмилия",
+          "length": 1
+        },
+        {
+          "index": 5,
+          "correct": "и",
+          "wrong": [
+            "е",
+            "ья"
+          ],
+          "note": "На конце -ИЯ: фамилИя",
+          "length": 1
+        }
+      ],
+      "hint": "На обложке тетради красиво написана твоя фАмилИя!",
+      "tags": [
+        "UNSTRESSED_A",
+        "UNSTRESSED_E_I",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 75,
+      "word": "хорошо",
+      "stress": 5,
+      "group": 15,
+      "column": 3,
+      "color": "ORANGE",
+      "orthograms": [
+        {
+          "index": 1,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "у"
+          ],
+          "note": "Сочетание -ОРО-: хОрошо",
+          "length": 1
+        },
+        {
+          "index": 3,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "е"
+          ],
+          "note": "Сочетание -ОРО-: хорОшо — три буквы О!",
+          "length": 1
+        }
+      ],
+      "hint": "Как хОрОшО знать все словарные слова — три круглые буквы О!",
+      "tags": [
+        "ORO_OLO",
+        "UNSTRESSED_O",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 76,
+      "word": "яблоко",
+      "stress": 0,
+      "group": 16,
+      "column": 3,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 3,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "ы"
+          ],
+          "note": "В середине круглая О: яблОко",
+          "length": 1
+        },
+        {
+          "index": 5,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "е"
+          ],
+          "note": "На конце круглая О: яблокО",
+          "length": 1
+        }
+      ],
+      "hint": "Спелое наливное яблОкО круглое, как две буквы О!",
+      "tags": [
+        "UNSTRESSED_O",
+        "MULTI_ORTHOGRAM"
+      ]
+    },
+    {
+      "id": 77,
+      "word": "ягода",
+      "stress": 0,
+      "group": 16,
+      "column": 3,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 2,
+          "correct": "о",
+          "wrong": [
+            "а",
+            "ы"
+          ],
+          "note": "Безударная гласная О: ягОда",
+          "length": 1
+        }
+      ],
+      "hint": "Лесная душистая ягОда земляника спряталась под листочком.",
+      "tags": [
+        "UNSTRESSED_O"
+      ]
+    },
+    {
+      "id": 78,
+      "word": "язык",
+      "stress": 2,
+      "group": 16,
+      "column": 3,
+      "color": "RED",
+      "orthograms": [
+        {
+          "index": 0,
+          "correct": "я",
+          "wrong": [
+            "е",
+            "и"
+          ],
+          "note": "В начале слова пишем букву Я: Язык",
+          "length": 1
+        }
+      ],
+      "hint": "Мы отлично знаем родной русский Язык!",
+      "tags": [
+        "UNSTRESSED_E_I"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "id": "BIOME_RED_1",
+      "title": "Искатель Редстоуна",
+      "description": "Освоить любую Красную группу слов на 100%",
+      "category": "COLOR_BIOMES",
+      "xp": 100,
+      "emeralds": 15
+    },
+    {
+      "id": "BIOME_RED_ALL",
+      "title": "Властелин Рубинового Каньона",
+      "description": "Освоить все 18 красных слов (группы 1, 7, 9, 16)",
+      "category": "COLOR_BIOMES",
+      "xp": 250,
+      "emeralds": 40
+    },
+    {
+      "id": "BIOME_BLUE_ALL",
+      "title": "Хранитель Лазурита",
+      "description": "Освоить все 12 синих слов (группы 2 и 12)",
+      "category": "COLOR_BIOMES",
+      "xp": 200,
+      "emeralds": 30
+    },
+    {
+      "id": "BIOME_GREEN_ALL",
+      "title": "Изумрудный Следопыт",
+      "description": "Освоить все 15 зелёных слов (группы 3, 8, 13)",
+      "category": "COLOR_BIOMES",
+      "xp": 220,
+      "emeralds": 35
+    },
+    {
+      "id": "BIOME_PURPLE_ALL",
+      "title": "Маг Аметистового Грота",
+      "description": "Освоить все 13 фиолетовых слов (группы 4, 11, 14)",
+      "category": "COLOR_BIOMES",
+      "xp": 220,
+      "emeralds": 35
+    },
+    {
+      "id": "BIOME_ORANGE_ALL",
+      "title": "Покоритель Янтаря",
+      "description": "Освоить все 15 оранжевых слов (группы 5, 10, 15)",
+      "category": "COLOR_BIOMES",
+      "xp": 220,
+      "emeralds": 35
+    },
+    {
+      "id": "BIOME_BROWN_ALL",
+      "title": "Страж Дубовой Крепости",
+      "description": "Освоить все 5 коричневых слов (группа 6)",
+      "category": "COLOR_BIOMES",
+      "xp": 150,
+      "emeralds": 25
+    },
+    {
+      "id": "RULE_ORO_OLO",
+      "title": "Золотое правило ОРО/ОЛО",
+      "description": "Освоить все 8 слов с сочетаниями -ОРО- и -ОЛО- (воробей, молоко, корова и др.)",
+      "category": "ORTHOGRAM_RULES",
+      "xp": 200,
+      "emeralds": 35
+    },
+    {
+      "id": "RULE_DOUBLE_CONS",
+      "title": "Двойной Алмазный Блок",
+      "description": "Освоить все слова с удвоенными согласными: класс, пассажир, русский, суббота",
+      "category": "ORTHOGRAM_RULES",
+      "xp": 180,
+      "emeralds": 30
+    },
+    {
+      "id": "RULE_PAIRED_CONS",
+      "title": "Мастер Парных Согласных",
+      "description": "Освоить 8 слов с парными согласными (арбуз, вдруг, медведь, мороз, тетрадь и др.)",
+      "category": "ORTHOGRAM_RULES",
+      "xp": 200,
+      "emeralds": 30
+    },
+    {
+      "id": "RULE_MULTI_ORTHO",
+      "title": "Архитектор Сложных Слов",
+      "description": "Освоить 10 слов, в которых сразу 2 или 3 орфограммы",
+      "category": "ORTHOGRAM_RULES",
+      "xp": 220,
+      "emeralds": 35
+    },
+    {
+      "id": "RULE_SPECIAL",
+      "title": "Хранитель Тайных Знаков",
+      "description": "Освоить слова с ЖИ-ШИ, ЧК, Ь и заглавной буквой (Москва, машина, девочка и др.)",
+      "category": "ORTHOGRAM_RULES",
+      "xp": 180,
+      "emeralds": 25
+    },
+    {
+      "id": "FEAT_FIRST_CRAFT",
+      "title": "Первый Верстак",
+      "description": "Правильно собрать первые 5 словарных слов",
+      "category": "HEROIC_FEATS",
+      "xp": 60,
+      "emeralds": 10
+    },
+    {
+      "id": "FEAT_COMBO_10",
+      "title": "Зачарованная Кирка (Комбо x10)",
+      "description": "Ответить правильно 10 раз подряд без единой ошибки",
+      "category": "HEROIC_FEATS",
+      "xp": 140,
+      "emeralds": 20
+    },
+    {
+      "id": "FEAT_COMBO_25",
+      "title": "Несокрушимая Серия (Комбо x25)",
+      "description": "Ответить правильно 25 раз подряд без единой ошибки",
+      "category": "HEROIC_FEATS",
+      "xp": 300,
+      "emeralds": 50
+    },
+    {
+      "id": "FEAT_FORGE_1",
+      "title": "Ученик Кузнеца",
+      "description": "Добить и полностью закалить (3/3) своё первое слово в «Кузнице ошибок»",
+      "category": "HEROIC_FEATS",
+      "xp": 120,
+      "emeralds": 20
+    },
+    {
+      "id": "FEAT_FORGE_5",
+      "title": "Повелитель Наковальни",
+      "description": "Полностью исправить и закалить 5 сложных слов в «Кузнице ошибок»",
+      "category": "HEROIC_FEATS",
+      "xp": 250,
+      "emeralds": 45
+    },
+    {
+      "id": "FEAT_EXAM_FIRST",
+      "title": "Победитель Дракона",
+      "description": "Успешно сдать свой первый Экзамен на оценку 4 или 5",
+      "category": "HEROIC_FEATS",
+      "xp": 200,
+      "emeralds": 35
+    },
+    {
+      "id": "FEAT_EXAM_PERFECT",
+      "title": "Алмазный Отличник (Оценка 5+)",
+      "description": "Сдать Экзамен без потери сердечек на высшую оценку 5!",
+      "category": "HEROIC_FEATS",
+      "xp": 350,
+      "emeralds": 60
+    },
+    {
+      "id": "FEAT_ALL_78",
+      "title": "Незеритовый Магистр 2 Класса",
+      "description": "Освоить все 78 словарных слов со страницы!",
+      "category": "HEROIC_FEATS",
+      "xp": 1000,
+      "emeralds": 200
+    }
+  ]
+}
